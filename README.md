@@ -1,6 +1,6 @@
 # UDACITY_Analyze_AB_results
 
-UDACITY Project - Unit 4: Anayze A/B results
+UDACITY Project - Unit 3: Anayze A/B results
 
 This repository is about the project of Unit 4 of Data Analyst Nanodegree Program of UDacity platoform. 
 
